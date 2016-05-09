@@ -10,6 +10,11 @@ usage::
 	press return
 	the simulator runs the code and ends when it encounters 'exit' instruction
 
+NOTE::
+When i created this simulator , my main purpose was to test my knowledge of static variables and functions.
+Thus, you will find almost everything static .. static functions .. static variables.
+It served the purpose , as in a simulation of this specific machine , you hardly reuse an IP twice.
+
 	
 ##instructions supported::
 
